@@ -18,6 +18,8 @@ Listing of books that may be useful for a software tester.  This list is based u
 
 [Agile Testing: A Practical Guide for Testers and Agile Teams](http://www.goodreads.com/book/show/5341009-agile-testing)  by Lisa Crispin, Janet Gregory, Mike Cohn (Foreword), Brian Marick (Foreword)
 
+[More Agile Testing: Learning Journeys for the Whole Team](http://www.goodreads.com/book/show/23316029-more-agile-testing) by Janet Gregory, Lisa Crispin
+
 [The Myths of Innovation](http://www.goodreads.com/book/show/723074.The_Myths_of_Innovation)  by Scott Berkun
 
 [The Ten Faces of Innovation: IDEO's Strategies for Defeating the Devil's Advocate and Driving Creativity Throughout Your Organization](http://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation)  by Tom Kelley, Jonathan Littman
